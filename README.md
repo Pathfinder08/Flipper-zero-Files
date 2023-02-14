@@ -1,15 +1,10 @@
-  # Moro's Flipper Zero dump Collection
-#### _Adding more files over time, :)_
+  # Flipper Zero dump Collection
+#### _Adding more soon
 
-This is a dump of my "open" dump of my SD card, it's a collection of stuff i either found online or created myself.
+This is a collection of stuff i found online and created myself.
 
 
-## Tech
 
-- [https://discord.gg/TybQFabaJB] - Flipper Discord for FAQ's!
-
-## License
-
+# License
 MIT
-
-**Have Fun!**
+https://opensource.org/license/mit-0/
